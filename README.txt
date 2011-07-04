@@ -11,6 +11,10 @@ Introduction
 ------------
 This set of scripts is intended to assist you with making cold backups of the FC mirror. Before use each script will need to be edited so that the various variables are configured for your use of the script.
 
+These scripts are for use on Mac OS X systems. Although they could be easily modified for use on other *NIX systems.
+
+The scripts should be installed and run on a server running FirstClass.
+
 
 fcmirror_check.sh
 ------------------
