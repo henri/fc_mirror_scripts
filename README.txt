@@ -13,7 +13,7 @@ This set of scripts is intended to assist you with making cold backups of the FC
 
 These scripts are for use on Mac OS X systems. Although they could be easily modified for use on other *NIX systems.
 
-The scripts should be installed and run on a server running FirstClass.
+The scripts should be installed and run on a server running FirstClass (from OpenText).
 
 
 fcmirror_check.sh
